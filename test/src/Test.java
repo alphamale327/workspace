@@ -6,7 +6,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("eclipse git test");
+		System.out.println("eclipse git test2");
 		int num = 5;
 		int array[] = new int[5];
 		
